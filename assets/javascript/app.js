@@ -19,7 +19,7 @@ var triviaQuestions = [{
 	answerList: ["Ciao", "Hallo", "Sveiki", "Hola"],
 	answer: 1
 },{
-	question: "In what city could you expect to try currywurst?)",
+	question: "In what city could you expect to try currywurst?",
 	answerList: ["Mosul", "Berlin", "Mogadishu", "Beirut"],
 	answer: 1
 },{
@@ -43,7 +43,7 @@ var triviaQuestions = [{
 	answerList: ["Grazie", "Graicas", "Vino", "Merci"],
 	answer: 0
 },{
-	question: "In which country is there the highest population of Portuguese speakers??",
+	question: "In which country is there the highest population of Portuguese speakers?",
 	answerList: ["Portugal", "Zambia", "Paraguay", "Brazil"],
 	answer: 3
 },{
